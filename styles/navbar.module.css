@@ -1,0 +1,22 @@
+.navbar {
+    background: #74b999;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+
+    min-width: 720px;
+}
+
+.link {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+
+.link:hover {
+    color: #474747;
+}
